@@ -1,0 +1,3 @@
+favicon.ico
+	https://freesvg.org/battleship-icon
+	Public Domain image
